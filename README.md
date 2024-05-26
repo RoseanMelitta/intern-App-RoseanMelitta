@@ -33,3 +33,4 @@ Mandatory tasks:
 
 Bonus: Creativity can bring you points. Do whatever you want, anywhere in the app, let your imagination surprise us in a good way.
 "# intern-App-RoseanMelitta" 
+"# intern-App-RoseanMelitta" 
