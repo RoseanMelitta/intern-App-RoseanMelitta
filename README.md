@@ -32,3 +32,4 @@ Mandatory tasks:
    - Delete a card
 
 Bonus: Creativity can bring you points. Do whatever you want, anywhere in the app, let your imagination surprise us in a good way.
+"# intern-App-RoseanMelitta" 
